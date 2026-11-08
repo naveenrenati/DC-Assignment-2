@@ -1,0 +1,38 @@
+2026-11-08 16:20:42,241 [Master] INFO: Master initialising on 127.0.0.1:6000
+2026-11-08 16:20:42,242 [Master] INFO: Master listening on 127.0.0.1:6000
+2026-11-08 16:20:42,508 [Master] WARNING: Unknown message type received: None
+2026-11-08 16:20:42,563 [Master] INFO: Worker registered: W1 @ 127.0.0.1:6001
+2026-11-08 16:20:42,563 [Master] INFO: Active workers: ['W1']
+2026-11-08 16:20:42,886 [Master] INFO: Worker registered: W2 @ 127.0.0.1:6002
+2026-11-08 16:20:42,886 [Master] INFO: Active workers: ['W1', 'W2']
+2026-11-08 16:20:43,194 [Master] INFO: Worker registered: W3 @ 127.0.0.1:6003
+2026-11-08 16:20:43,195 [Master] INFO: Active workers: ['W1', 'W2', 'W3']
+2026-11-08 16:20:47,699 [Master] INFO: Task T000001 received from peer 'P2': prime_count
+2026-11-08 16:20:47,699 [Master] INFO: Task T000001: splitting into 3 sub-tasks for workers ['W1', 'W2', 'W3']
+2026-11-08 16:20:47,715 [Master] INFO:   Worker W1 finished sub-task of T000001
+2026-11-08 16:20:47,723 [Master] INFO:   Worker W2 finished sub-task of T000001
+2026-11-08 16:20:47,730 [Master] INFO:   Worker W3 finished sub-task of T000001
+2026-11-08 16:20:47,730 [Master] INFO: Task T000001 completed in 0.0309s | result={'task_type': 'prime_count', 'prime_count': 41538, 'parallel_workers': ['W1', 'W2', 'W3'], 'elapsed_seconds': 0.0309, 'status': 'success'}
+2026-11-08 16:20:47,731 [Master] INFO: Task T000002 received from peer 'P3': sum_squares
+2026-11-08 16:20:47,731 [Master] INFO: Task T000002: splitting into 3 sub-tasks for workers ['W1', 'W2', 'W3']
+2026-11-08 16:20:47,731 [Master] INFO:   Worker W1 finished sub-task of T000002
+2026-11-08 16:20:47,732 [Master] INFO:   Worker W2 finished sub-task of T000002
+2026-11-08 16:20:47,732 [Master] INFO:   Worker W3 finished sub-task of T000002
+2026-11-08 16:20:47,732 [Master] INFO: Task T000002 completed in 0.0007s | result={'task_type': 'sum_squares', 'sum_of_squares': 333333833333500000, 'parallel_workers': ['W1', 'W2', 'W3'], 'elapsed_seconds': 0.0007, 'status': 'success'}
+2026-11-08 16:20:47,732 [Master] INFO: Task T000003 received from peer 'P1': word_count
+2026-11-08 16:20:47,732 [Master] INFO: Task T000003: splitting into 3 sub-tasks for workers ['W1', 'W2', 'W3']
+2026-11-08 16:20:47,733 [Master] INFO:   Worker W2 finished sub-task of T000003
+2026-11-08 16:20:47,733 [Master] INFO:   Worker W1 finished sub-task of T000003
+2026-11-08 16:20:47,733 [Master] INFO:   Worker W3 finished sub-task of T000003
+2026-11-08 16:20:47,733 [Master] INFO: Task T000003 completed in 0.0009s | result={'task_type': 'word_count', 'unique_words': 36, 'top_5': [('distributed', 3), ('systems', 3), ('computing', 3), ('nodes', 2), ('peer', 2)], 'parallel_workers': ['W1', 'W2', 'W3'], 'elapsed_seconds': 0.0009, 'status': 'success'}
+2026-11-08 16:20:47,775 [Master] INFO: Worker registered: W4 @ 127.0.0.1:6004
+2026-11-08 16:20:47,775 [Master] INFO: Active workers: ['W1', 'W2', 'W3', 'W4']
+2026-11-08 16:20:49,046 [Master] INFO: Task T000004 received from peer 'P2': prime_count
+2026-11-08 16:20:49,046 [Master] INFO: Task T000004: splitting into 4 sub-tasks for workers ['W1', 'W2', 'W3', 'W4']
+2026-11-08 16:20:49,076 [Master] INFO:   Worker W1 finished sub-task of T000004
+2026-11-08 16:20:49,089 [Master] INFO:   Worker W2 finished sub-task of T000004
+2026-11-08 16:20:49,101 [Master] INFO:   Worker W3 finished sub-task of T000004
+2026-11-08 16:20:49,110 [Master] INFO:   Worker W4 finished sub-task of T000004
+2026-11-08 16:20:49,110 [Master] INFO: Task T000004 completed in 0.0636s | result={'task_type': 'prime_count', 'prime_count': 78498, 'parallel_workers': ['W1', 'W2', 'W3', 'W4'], 'elapsed_seconds': 0.0636, 'status': 'success'}
+2026-11-08 16:20:49,110 [Master] INFO: Worker deregistered: W4
+2026-11-08 16:20:49,110 [Master] INFO: Active workers: ['W1', 'W2', 'W3']

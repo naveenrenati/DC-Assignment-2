@@ -1,0 +1,72 @@
+2026-10-31 21:03:15,239 [Peer-P2] INFO: Peer P2 initialising on 127.0.0.1:7002
+2026-10-31 21:03:15,240 [Peer-P2] INFO: Listening on 127.0.0.1:7002
+2026-10-31 21:03:15,949 [Peer-P2] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-10-31 21:03:16,244 [Peer-P2] INFO: Announced join to 127.0.0.1:7001
+2026-10-31 21:03:16,245 [Peer-P2] INFO: Announced join to 127.0.0.1:7003
+2026-10-31 21:03:16,246 [Peer-P2] INFO: Announced join to 127.0.0.1:7004
+2026-10-31 21:03:16,557 [Peer-P2] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-10-31 21:03:16,866 [Peer-P2] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-10-31 21:03:18,108 [Peer-P2] INFO: Resource request from P1
+2026-10-31 21:03:18,115 [Peer-P2] INFO: Peer P1 sharing file 'dataset_P1.csv'
+2026-10-31 21:03:18,156 [Peer-P2] INFO: Peer P4 is leaving the network
+2026-10-31 21:03:18,157 [Peer-P2] INFO: Resource request from P1
+2026-10-31 21:14:48,777 [Peer-P2] INFO: Peer P2 initialising on 127.0.0.1:7002
+2026-10-31 21:14:48,777 [Peer-P2] INFO: Listening on 127.0.0.1:7002
+2026-10-31 21:14:49,470 [Peer-P2] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-10-31 21:14:49,784 [Peer-P2] INFO: Announced join to 127.0.0.1:7001
+2026-10-31 21:14:49,785 [Peer-P2] INFO: Announced join to 127.0.0.1:7003
+2026-10-31 21:14:49,786 [Peer-P2] INFO: Announced join to 127.0.0.1:7004
+2026-10-31 21:14:50,097 [Peer-P2] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-10-31 21:14:50,406 [Peer-P2] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-10-31 21:14:51,654 [Peer-P2] INFO: Resource request from P1
+2026-10-31 21:14:51,661 [Peer-P2] INFO: Peer P1 sharing file 'dataset_P1.csv'
+2026-10-31 21:14:51,702 [Peer-P2] INFO: Peer P4 is leaving the network
+2026-10-31 21:14:51,702 [Peer-P2] INFO: Resource request from P1
+2026-11-08 15:52:57,079 [Peer-P2] INFO: Peer P2 initialising on 127.0.0.1:7002
+2026-11-08 15:52:57,081 [Peer-P2] INFO: Peer P2 listening on 127.0.0.1:7002
+2026-11-08 15:52:57,790 [Peer-P2] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 15:52:58,087 [Peer-P2] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 15:52:58,088 [Peer-P2] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 15:52:58,088 [Peer-P2] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 15:52:58,393 [Peer-P2] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 15:52:58,701 [Peer-P2] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 15:52:59,954 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 15:52:59,960 [Peer-P2] INFO: Peer P1 shared file 'dataset_P1.csv' with us
+2026-11-08 15:52:59,999 [Peer-P2] INFO: Peer P4 is leaving the network
+2026-11-08 15:53:00,000 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 16:01:16,982 [Peer-P2] INFO: Peer P2 initialising on 127.0.0.1:7002
+2026-11-08 16:01:16,982 [Peer-P2] INFO: Peer P2 listening on 127.0.0.1:7002
+2026-11-08 16:01:17,675 [Peer-P2] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:01:17,989 [Peer-P2] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:01:17,990 [Peer-P2] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:01:17,991 [Peer-P2] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:01:18,281 [Peer-P2] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:01:18,608 [Peer-P2] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:01:19,844 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 16:01:19,851 [Peer-P2] INFO: Peer P1 shared file 'dataset_P1.csv' with us
+2026-11-08 16:01:19,892 [Peer-P2] INFO: Peer P4 is leaving the network
+2026-11-08 16:01:19,893 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 16:08:10,186 [Peer-P2] INFO: Peer P2 initialising on 127.0.0.1:7002
+2026-11-08 16:08:10,187 [Peer-P2] INFO: Peer P2 listening on 127.0.0.1:7002
+2026-11-08 16:08:10,890 [Peer-P2] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:08:11,193 [Peer-P2] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:08:11,194 [Peer-P2] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:08:11,195 [Peer-P2] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:08:11,495 [Peer-P2] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:08:11,788 [Peer-P2] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:08:13,053 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 16:08:13,060 [Peer-P2] INFO: Peer P1 shared file 'dataset_P1.csv' with us
+2026-11-08 16:08:13,100 [Peer-P2] INFO: Peer P4 is leaving the network
+2026-11-08 16:08:13,101 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 16:20:44,816 [Peer-P2] INFO: Peer P2 initialising on 127.0.0.1:7002
+2026-11-08 16:20:44,817 [Peer-P2] INFO: Peer P2 listening on 127.0.0.1:7002
+2026-11-08 16:20:45,519 [Peer-P2] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:20:45,823 [Peer-P2] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:20:45,824 [Peer-P2] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:20:45,825 [Peer-P2] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:20:46,134 [Peer-P2] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:20:46,445 [Peer-P2] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:20:47,691 [Peer-P2] INFO: Resource request from peer P1
+2026-11-08 16:20:47,697 [Peer-P2] INFO: Peer P1 shared file 'dataset_P1.csv' with us
+2026-11-08 16:20:47,734 [Peer-P2] INFO: Peer P4 is leaving the network
+2026-11-08 16:20:47,734 [Peer-P2] INFO: Resource request from peer P1

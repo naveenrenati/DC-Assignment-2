@@ -1,0 +1,78 @@
+2026-10-31 21:03:13,297 [Worker-W2] INFO: Worker W2 initialising on 127.0.0.1:6002
+2026-10-31 21:03:13,298 [Worker-W2] INFO: Registered with master successfully
+2026-10-31 21:03:13,298 [Worker-W2] INFO: Worker listening on 127.0.0.1:6002
+2026-10-31 21:03:13,548 [Worker-W2] INFO: Executing sub-task ? | type=None | data={}
+2026-10-31 21:03:13,549 [Worker-W2] INFO: Sub-task ? done in 2e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 2e-06}
+2026-10-31 21:03:18,119 [Worker-W2] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 166667, 'high': 333332}
+2026-10-31 21:03:18,144 [Worker-W2] INFO: Sub-task T000001 done in 0.024436s | {'count': 13440, 'range': '166667-333332', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.024436}
+2026-10-31 21:03:18,154 [Worker-W2] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 333334, 'high': 666666}
+2026-10-31 21:03:18,154 [Worker-W2] INFO: Sub-task T000002 done in 8e-06s | {'sum': 86419660493808642, 'range': '333334-666666', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 8e-06}
+2026-10-31 21:03:18,155 [Worker-W2] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['communication', 'without', 'central', 'coordinator', 'cluster', 'computing', 'provides', 'parallel', 'processing', 'for', 'intensive', 'tasks', 'distributed', 'computing']}
+2026-10-31 21:03:18,155 [Worker-W2] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'communication': 1, 'without': 1, 'central': 1, 'coordinator': 1, 'cluster': 1, 'computing': 2, 'provides': 1, 'parallel': 1, 'processing': 1, 'for': 1, 'intensive': 1, 'tasks': 1, 'distributed': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 9e-06}
+2026-10-31 21:03:19,471 [Worker-W2] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 250001, 'high': 500000}
+2026-10-31 21:03:19,513 [Worker-W2] INFO: Sub-task T000004 done in 0.04237s | {'count': 19494, 'range': '250001-500000', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.04237}
+2026-10-31 21:14:46,834 [Worker-W2] INFO: Worker W2 initialising on 127.0.0.1:6002
+2026-10-31 21:14:46,834 [Worker-W2] INFO: Registered with master successfully
+2026-10-31 21:14:46,834 [Worker-W2] INFO: Worker listening on 127.0.0.1:6002
+2026-10-31 21:14:47,091 [Worker-W2] INFO: Executing sub-task ? | type=None | data={}
+2026-10-31 21:14:47,091 [Worker-W2] INFO: Sub-task ? done in 8e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 8e-06}
+2026-10-31 21:14:51,666 [Worker-W2] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 166667, 'high': 333332}
+2026-10-31 21:14:51,691 [Worker-W2] INFO: Sub-task T000001 done in 0.024703s | {'count': 13440, 'range': '166667-333332', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.024703}
+2026-10-31 21:14:51,699 [Worker-W2] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 333334, 'high': 666666}
+2026-10-31 21:14:51,699 [Worker-W2] INFO: Sub-task T000002 done in 6e-06s | {'sum': 86419660493808642, 'range': '333334-666666', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 6e-06}
+2026-10-31 21:14:51,701 [Worker-W2] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['communication', 'without', 'central', 'coordinator', 'cluster', 'computing', 'provides', 'parallel', 'processing', 'for', 'intensive', 'tasks', 'distributed', 'computing']}
+2026-10-31 21:14:51,701 [Worker-W2] INFO: Sub-task T000003 done in 1e-05s | {'freq': {'communication': 1, 'without': 1, 'central': 1, 'coordinator': 1, 'cluster': 1, 'computing': 2, 'provides': 1, 'parallel': 1, 'processing': 1, 'for': 1, 'intensive': 1, 'tasks': 1, 'distributed': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 1e-05}
+2026-10-31 21:14:53,020 [Worker-W2] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 250001, 'high': 500000}
+2026-10-31 21:14:53,060 [Worker-W2] INFO: Sub-task T000004 done in 0.039897s | {'count': 19494, 'range': '250001-500000', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.039897}
+2026-11-08 15:52:55,145 [Worker-W2] INFO: Worker W2 initialising on 127.0.0.1:6002
+2026-11-08 15:52:55,146 [Worker-W2] INFO: Registered with master successfully
+2026-11-08 15:52:55,146 [Worker-W2] INFO: Worker W2 listening on 127.0.0.1:6002
+2026-11-08 15:52:55,391 [Worker-W2] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 15:52:55,392 [Worker-W2] INFO: Sub-task ? done in 4e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 4e-06}
+2026-11-08 15:52:59,964 [Worker-W2] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 166667, 'high': 333332}
+2026-11-08 15:52:59,988 [Worker-W2] INFO: Sub-task T000001 done in 0.024034s | {'count': 13440, 'range': '166667-333332', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.024034}
+2026-11-08 15:52:59,997 [Worker-W2] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 333334, 'high': 666666}
+2026-11-08 15:52:59,997 [Worker-W2] INFO: Sub-task T000002 done in 6e-06s | {'sum': 86419660493808642, 'range': '333334-666666', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 6e-06}
+2026-11-08 15:52:59,998 [Worker-W2] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['communication', 'without', 'central', 'coordinator', 'cluster', 'computing', 'provides', 'parallel', 'processing', 'for', 'intensive', 'tasks', 'distributed', 'computing']}
+2026-11-08 15:52:59,998 [Worker-W2] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'communication': 1, 'without': 1, 'central': 1, 'coordinator': 1, 'cluster': 1, 'computing': 2, 'provides': 1, 'parallel': 1, 'processing': 1, 'for': 1, 'intensive': 1, 'tasks': 1, 'distributed': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 9e-06}
+2026-11-08 15:53:01,315 [Worker-W2] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 250001, 'high': 500000}
+2026-11-08 15:53:01,357 [Worker-W2] INFO: Sub-task T000004 done in 0.041844s | {'count': 19494, 'range': '250001-500000', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.041844}
+2026-11-08 16:01:15,041 [Worker-W2] INFO: Worker W2 initialising on 127.0.0.1:6002
+2026-11-08 16:01:15,042 [Worker-W2] INFO: Registered with master successfully
+2026-11-08 16:01:15,042 [Worker-W2] INFO: Worker W2 listening on 127.0.0.1:6002
+2026-11-08 16:01:15,291 [Worker-W2] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:01:15,292 [Worker-W2] INFO: Sub-task ? done in 6e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 6e-06}
+2026-11-08 16:01:19,855 [Worker-W2] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 166667, 'high': 333332}
+2026-11-08 16:01:19,881 [Worker-W2] INFO: Sub-task T000001 done in 0.025566s | {'count': 13440, 'range': '166667-333332', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.025566}
+2026-11-08 16:01:19,890 [Worker-W2] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 333334, 'high': 666666}
+2026-11-08 16:01:19,890 [Worker-W2] INFO: Sub-task T000002 done in 8e-06s | {'sum': 86419660493808642, 'range': '333334-666666', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 8e-06}
+2026-11-08 16:01:19,891 [Worker-W2] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['communication', 'without', 'central', 'coordinator', 'cluster', 'computing', 'provides', 'parallel', 'processing', 'for', 'intensive', 'tasks', 'distributed', 'computing']}
+2026-11-08 16:01:19,891 [Worker-W2] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'communication': 1, 'without': 1, 'central': 1, 'coordinator': 1, 'cluster': 1, 'computing': 2, 'provides': 1, 'parallel': 1, 'processing': 1, 'for': 1, 'intensive': 1, 'tasks': 1, 'distributed': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 9e-06}
+2026-11-08 16:01:21,207 [Worker-W2] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 250001, 'high': 500000}
+2026-11-08 16:01:21,249 [Worker-W2] INFO: Sub-task T000004 done in 0.04198s | {'count': 19494, 'range': '250001-500000', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.04198}
+2026-11-08 16:08:08,253 [Worker-W2] INFO: Worker W2 initialising on 127.0.0.1:6002
+2026-11-08 16:08:08,254 [Worker-W2] INFO: Registered with master successfully
+2026-11-08 16:08:08,254 [Worker-W2] INFO: Worker W2 listening on 127.0.0.1:6002
+2026-11-08 16:08:08,501 [Worker-W2] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:08:08,501 [Worker-W2] INFO: Sub-task ? done in 4e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 4e-06}
+2026-11-08 16:08:13,064 [Worker-W2] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 166667, 'high': 333332}
+2026-11-08 16:08:13,089 [Worker-W2] INFO: Sub-task T000001 done in 0.024174s | {'count': 13440, 'range': '166667-333332', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.024174}
+2026-11-08 16:08:13,098 [Worker-W2] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 333334, 'high': 666666}
+2026-11-08 16:08:13,098 [Worker-W2] INFO: Sub-task T000002 done in 7e-06s | {'sum': 86419660493808642, 'range': '333334-666666', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 7e-06}
+2026-11-08 16:08:13,099 [Worker-W2] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['communication', 'without', 'central', 'coordinator', 'cluster', 'computing', 'provides', 'parallel', 'processing', 'for', 'intensive', 'tasks', 'distributed', 'computing']}
+2026-11-08 16:08:13,099 [Worker-W2] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'communication': 1, 'without': 1, 'central': 1, 'coordinator': 1, 'cluster': 1, 'computing': 2, 'provides': 1, 'parallel': 1, 'processing': 1, 'for': 1, 'intensive': 1, 'tasks': 1, 'distributed': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 9e-06}
+2026-11-08 16:08:14,416 [Worker-W2] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 250001, 'high': 500000}
+2026-11-08 16:08:14,454 [Worker-W2] INFO: Sub-task T000004 done in 0.037237s | {'count': 19494, 'range': '250001-500000', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.037237}
+2026-11-08 16:20:42,885 [Worker-W2] INFO: Worker W2 initialising on 127.0.0.1:6002
+2026-11-08 16:20:42,886 [Worker-W2] INFO: Registered with master successfully
+2026-11-08 16:20:42,886 [Worker-W2] INFO: Worker W2 listening on 127.0.0.1:6002
+2026-11-08 16:20:43,130 [Worker-W2] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:20:43,130 [Worker-W2] INFO: Sub-task ? done in 7e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 7e-06}
+2026-11-08 16:20:47,700 [Worker-W2] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 166667, 'high': 333332}
+2026-11-08 16:20:47,723 [Worker-W2] INFO: Sub-task T000001 done in 0.022503s | {'count': 13440, 'range': '166667-333332', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.022503}
+2026-11-08 16:20:47,731 [Worker-W2] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 333334, 'high': 666666}
+2026-11-08 16:20:47,731 [Worker-W2] INFO: Sub-task T000002 done in 7e-06s | {'sum': 86419660493808642, 'range': '333334-666666', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 7e-06}
+2026-11-08 16:20:47,733 [Worker-W2] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['communication', 'without', 'central', 'coordinator', 'cluster', 'computing', 'provides', 'parallel', 'processing', 'for', 'intensive', 'tasks', 'distributed', 'computing']}
+2026-11-08 16:20:47,733 [Worker-W2] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'communication': 1, 'without': 1, 'central': 1, 'coordinator': 1, 'cluster': 1, 'computing': 2, 'provides': 1, 'parallel': 1, 'processing': 1, 'for': 1, 'intensive': 1, 'tasks': 1, 'distributed': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 9e-06}
+2026-11-08 16:20:49,047 [Worker-W2] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 250001, 'high': 500000}
+2026-11-08 16:20:49,089 [Worker-W2] INFO: Sub-task T000004 done in 0.041854s | {'count': 19494, 'range': '250001-500000', 'status': 'ok', 'worker_id': 'W2', 'elapsed_seconds': 0.041854}

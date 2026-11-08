@@ -1,0 +1,60 @@
+2026-10-31 21:03:14,945 [Peer-P1] INFO: Peer P1 initialising on 127.0.0.1:7001
+2026-10-31 21:03:14,946 [Peer-P1] INFO: Listening on 127.0.0.1:7001
+2026-10-31 21:03:15,949 [Peer-P1] INFO: Announced join to 127.0.0.1:7002
+2026-10-31 21:03:15,950 [Peer-P1] INFO: Announced join to 127.0.0.1:7003
+2026-10-31 21:03:15,951 [Peer-P1] INFO: Announced join to 127.0.0.1:7004
+2026-10-31 21:03:16,243 [Peer-P1] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-10-31 21:03:16,555 [Peer-P1] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-10-31 21:03:16,865 [Peer-P1] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-10-31 21:03:18,117 [Peer-P1] INFO: Peer P4 sharing file 'config_P4.yaml'
+2026-10-31 21:03:18,156 [Peer-P1] INFO: Peer P4 is leaving the network
+2026-10-31 21:14:48,465 [Peer-P1] INFO: Peer P1 initialising on 127.0.0.1:7001
+2026-10-31 21:14:48,465 [Peer-P1] INFO: Listening on 127.0.0.1:7001
+2026-10-31 21:14:49,471 [Peer-P1] INFO: Announced join to 127.0.0.1:7002
+2026-10-31 21:14:49,471 [Peer-P1] INFO: Announced join to 127.0.0.1:7003
+2026-10-31 21:14:49,472 [Peer-P1] INFO: Announced join to 127.0.0.1:7004
+2026-10-31 21:14:49,783 [Peer-P1] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-10-31 21:14:50,095 [Peer-P1] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-10-31 21:14:50,404 [Peer-P1] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-10-31 21:14:51,663 [Peer-P1] INFO: Peer P4 sharing file 'config_P4.yaml'
+2026-10-31 21:14:51,701 [Peer-P1] INFO: Peer P4 is leaving the network
+2026-11-08 15:52:56,784 [Peer-P1] INFO: Peer P1 initialising on 127.0.0.1:7001
+2026-11-08 15:52:56,785 [Peer-P1] INFO: Peer P1 listening on 127.0.0.1:7001
+2026-11-08 15:52:57,791 [Peer-P1] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 15:52:57,792 [Peer-P1] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 15:52:57,792 [Peer-P1] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 15:52:58,086 [Peer-P1] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 15:52:58,391 [Peer-P1] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 15:52:58,700 [Peer-P1] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 15:52:59,962 [Peer-P1] INFO: Peer P4 shared file 'config_P4.yaml' with us
+2026-11-08 15:52:59,998 [Peer-P1] INFO: Peer P4 is leaving the network
+2026-11-08 16:01:16,669 [Peer-P1] INFO: Peer P1 initialising on 127.0.0.1:7001
+2026-11-08 16:01:16,669 [Peer-P1] INFO: Peer P1 listening on 127.0.0.1:7001
+2026-11-08 16:01:17,675 [Peer-P1] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:01:17,676 [Peer-P1] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:01:17,677 [Peer-P1] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:01:17,988 [Peer-P1] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:01:18,279 [Peer-P1] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:01:18,607 [Peer-P1] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:01:19,853 [Peer-P1] INFO: Peer P4 shared file 'config_P4.yaml' with us
+2026-11-08 16:01:19,892 [Peer-P1] INFO: Peer P4 is leaving the network
+2026-11-08 16:08:09,886 [Peer-P1] INFO: Peer P1 initialising on 127.0.0.1:7001
+2026-11-08 16:08:09,887 [Peer-P1] INFO: Peer P1 listening on 127.0.0.1:7001
+2026-11-08 16:08:10,890 [Peer-P1] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:08:10,891 [Peer-P1] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:08:10,892 [Peer-P1] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:08:11,193 [Peer-P1] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:08:11,494 [Peer-P1] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:08:11,787 [Peer-P1] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:08:13,062 [Peer-P1] INFO: Peer P4 shared file 'config_P4.yaml' with us
+2026-11-08 16:08:13,100 [Peer-P1] INFO: Peer P4 is leaving the network
+2026-11-08 16:20:44,514 [Peer-P1] INFO: Peer P1 initialising on 127.0.0.1:7001
+2026-11-08 16:20:44,515 [Peer-P1] INFO: Peer P1 listening on 127.0.0.1:7001
+2026-11-08 16:20:45,519 [Peer-P1] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:20:45,520 [Peer-P1] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:20:45,520 [Peer-P1] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:20:45,823 [Peer-P1] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:20:46,133 [Peer-P1] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:20:46,444 [Peer-P1] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:20:47,698 [Peer-P1] INFO: Peer P4 shared file 'config_P4.yaml' with us
+2026-11-08 16:20:47,733 [Peer-P1] INFO: Peer P4 is leaving the network

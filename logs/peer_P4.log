@@ -1,0 +1,12 @@
+2026-11-08 16:20:45,437 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-11-08 16:20:45,438 [Peer-P4] INFO: Peer P4 listening on 127.0.0.1:7004
+2026-11-08 16:20:45,520 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:20:45,824 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:20:46,135 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:20:46,444 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:20:46,446 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:20:46,447 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:20:47,695 [Peer-P4] INFO: Resource request from peer P1
+/Users/naveenrenati/Downloads/DC/peer/peer_node.py:230: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "timestamp": datetime.utcnow().isoformat(),
+2026-11-08 16:20:47,698 [Peer-P4] INFO: Peer P3 shared file 'results_P3.json' with us

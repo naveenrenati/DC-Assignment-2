@@ -1,0 +1,72 @@
+2026-10-31 21:03:15,549 [Peer-P3] INFO: Peer P3 initialising on 127.0.0.1:7003
+2026-10-31 21:03:15,549 [Peer-P3] INFO: Listening on 127.0.0.1:7003
+2026-10-31 21:03:15,950 [Peer-P3] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-10-31 21:03:16,245 [Peer-P3] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-10-31 21:03:16,556 [Peer-P3] INFO: Announced join to 127.0.0.1:7001
+2026-10-31 21:03:16,557 [Peer-P3] INFO: Announced join to 127.0.0.1:7002
+2026-10-31 21:03:16,558 [Peer-P3] INFO: Announced join to 127.0.0.1:7004
+2026-10-31 21:03:16,867 [Peer-P3] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-10-31 21:03:18,111 [Peer-P3] INFO: Resource request from P1
+2026-10-31 21:03:18,116 [Peer-P3] INFO: Peer P2 sharing file 'model_weights_P2.bin'
+2026-10-31 21:03:18,157 [Peer-P3] INFO: Peer P4 is leaving the network
+2026-10-31 21:03:18,157 [Peer-P3] INFO: Resource request from P1
+2026-10-31 21:14:49,093 [Peer-P3] INFO: Peer P3 initialising on 127.0.0.1:7003
+2026-10-31 21:14:49,093 [Peer-P3] INFO: Listening on 127.0.0.1:7003
+2026-10-31 21:14:49,471 [Peer-P3] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-10-31 21:14:49,785 [Peer-P3] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-10-31 21:14:50,096 [Peer-P3] INFO: Announced join to 127.0.0.1:7001
+2026-10-31 21:14:50,098 [Peer-P3] INFO: Announced join to 127.0.0.1:7002
+2026-10-31 21:14:50,099 [Peer-P3] INFO: Announced join to 127.0.0.1:7004
+2026-10-31 21:14:50,407 [Peer-P3] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-10-31 21:14:51,658 [Peer-P3] INFO: Resource request from P1
+2026-10-31 21:14:51,662 [Peer-P3] INFO: Peer P2 sharing file 'model_weights_P2.bin'
+2026-10-31 21:14:51,702 [Peer-P3] INFO: Peer P4 is leaving the network
+2026-10-31 21:14:51,703 [Peer-P3] INFO: Resource request from P1
+2026-11-08 15:52:57,385 [Peer-P3] INFO: Peer P3 initialising on 127.0.0.1:7003
+2026-11-08 15:52:57,385 [Peer-P3] INFO: Peer P3 listening on 127.0.0.1:7003
+2026-11-08 15:52:57,791 [Peer-P3] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 15:52:58,087 [Peer-P3] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 15:52:58,392 [Peer-P3] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 15:52:58,393 [Peer-P3] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 15:52:58,394 [Peer-P3] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 15:52:58,702 [Peer-P3] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 15:52:59,957 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 15:52:59,961 [Peer-P3] INFO: Peer P2 shared file 'model_weights_P2.bin' with us
+2026-11-08 15:52:59,999 [Peer-P3] INFO: Peer P4 is leaving the network
+2026-11-08 15:53:00,000 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 16:01:17,273 [Peer-P3] INFO: Peer P3 initialising on 127.0.0.1:7003
+2026-11-08 16:01:17,273 [Peer-P3] INFO: Peer P3 listening on 127.0.0.1:7003
+2026-11-08 16:01:17,676 [Peer-P3] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:01:17,990 [Peer-P3] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:01:18,280 [Peer-P3] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:01:18,281 [Peer-P3] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:01:18,282 [Peer-P3] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:01:18,609 [Peer-P3] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:01:19,847 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 16:01:19,851 [Peer-P3] INFO: Peer P2 shared file 'model_weights_P2.bin' with us
+2026-11-08 16:01:19,892 [Peer-P3] INFO: Peer P4 is leaving the network
+2026-11-08 16:01:19,893 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 16:08:10,487 [Peer-P3] INFO: Peer P3 initialising on 127.0.0.1:7003
+2026-11-08 16:08:10,488 [Peer-P3] INFO: Peer P3 listening on 127.0.0.1:7003
+2026-11-08 16:08:10,891 [Peer-P3] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:08:11,194 [Peer-P3] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:08:11,494 [Peer-P3] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:08:11,495 [Peer-P3] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:08:11,496 [Peer-P3] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:08:11,789 [Peer-P3] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:08:13,056 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 16:08:13,061 [Peer-P3] INFO: Peer P2 shared file 'model_weights_P2.bin' with us
+2026-11-08 16:08:13,101 [Peer-P3] INFO: Peer P4 is leaving the network
+2026-11-08 16:08:13,101 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 16:20:45,126 [Peer-P3] INFO: Peer P3 initialising on 127.0.0.1:7003
+2026-11-08 16:20:45,127 [Peer-P3] INFO: Peer P3 listening on 127.0.0.1:7003
+2026-11-08 16:20:45,519 [Peer-P3] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:20:45,824 [Peer-P3] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:20:46,134 [Peer-P3] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:20:46,135 [Peer-P3] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:20:46,135 [Peer-P3] INFO: Announced join to 127.0.0.1:7004
+2026-11-08 16:20:46,447 [Peer-P3] INFO: New peer joined: P4 @ 127.0.0.1:7004
+2026-11-08 16:20:47,694 [Peer-P3] INFO: Resource request from peer P1
+2026-11-08 16:20:47,697 [Peer-P3] INFO: Peer P2 shared file 'model_weights_P2.bin' with us
+2026-11-08 16:20:47,734 [Peer-P3] INFO: Peer P4 is leaving the network
+2026-11-08 16:20:47,735 [Peer-P3] INFO: Resource request from peer P1

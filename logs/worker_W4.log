@@ -1,0 +1,7 @@
+2026-11-08 16:20:47,774 [Worker-W4] INFO: Worker W4 initialising on 127.0.0.1:6004
+2026-11-08 16:20:47,775 [Worker-W4] INFO: Registered with master successfully
+2026-11-08 16:20:47,775 [Worker-W4] INFO: Worker W4 listening on 127.0.0.1:6004
+2026-11-08 16:20:48,042 [Worker-W4] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:20:48,043 [Worker-W4] INFO: Sub-task ? done in 3e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W4', 'elapsed_seconds': 3e-06}
+2026-11-08 16:20:49,048 [Worker-W4] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 750001, 'high': 1000000}
+2026-11-08 16:20:49,109 [Worker-W4] INFO: Sub-task T000004 done in 0.061001s | {'count': 18260, 'range': '750001-1000000', 'status': 'ok', 'worker_id': 'W4', 'elapsed_seconds': 0.061001}

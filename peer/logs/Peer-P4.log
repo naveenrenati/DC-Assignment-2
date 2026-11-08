@@ -1,0 +1,60 @@
+2026-10-31 21:03:15,859 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-10-31 21:03:15,859 [Peer-P4] INFO: Listening on 127.0.0.1:7004
+2026-10-31 21:03:15,950 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-10-31 21:03:16,246 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-10-31 21:03:16,558 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-10-31 21:03:16,865 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-10-31 21:03:16,866 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-10-31 21:03:16,867 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-10-31 21:03:18,113 [Peer-P4] INFO: Resource request from P1
+2026-10-31 21:03:18,117 [Peer-P4] INFO: Peer P3 sharing file 'results_P3.json'
+2026-10-31 21:14:49,398 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-10-31 21:14:49,398 [Peer-P4] INFO: Listening on 127.0.0.1:7004
+2026-10-31 21:14:49,472 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-10-31 21:14:49,786 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-10-31 21:14:50,099 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-10-31 21:14:50,405 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-10-31 21:14:50,406 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-10-31 21:14:50,407 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-10-31 21:14:51,660 [Peer-P4] INFO: Resource request from P1
+2026-10-31 21:14:51,663 [Peer-P4] INFO: Peer P3 sharing file 'results_P3.json'
+2026-11-08 15:52:57,693 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-11-08 15:52:57,694 [Peer-P4] INFO: Peer P4 listening on 127.0.0.1:7004
+2026-11-08 15:52:57,792 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 15:52:58,088 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 15:52:58,394 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 15:52:58,700 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 15:52:58,701 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 15:52:58,703 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 15:52:59,958 [Peer-P4] INFO: Resource request from peer P1
+2026-11-08 15:52:59,962 [Peer-P4] INFO: Peer P3 shared file 'results_P3.json' with us
+2026-11-08 16:01:17,601 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-11-08 16:01:17,602 [Peer-P4] INFO: Peer P4 listening on 127.0.0.1:7004
+2026-11-08 16:01:17,677 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:01:17,991 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:01:18,281 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:01:18,608 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:01:18,609 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:01:18,610 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:01:19,849 [Peer-P4] INFO: Resource request from peer P1
+2026-11-08 16:01:19,852 [Peer-P4] INFO: Peer P3 shared file 'results_P3.json' with us
+2026-11-08 16:08:10,780 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-11-08 16:08:10,781 [Peer-P4] INFO: Peer P4 listening on 127.0.0.1:7004
+2026-11-08 16:08:10,891 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:08:11,195 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:08:11,496 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:08:11,787 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:08:11,789 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:08:11,790 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:08:13,058 [Peer-P4] INFO: Resource request from peer P1
+2026-11-08 16:08:13,061 [Peer-P4] INFO: Peer P3 shared file 'results_P3.json' with us
+2026-11-08 16:20:45,437 [Peer-P4] INFO: Peer P4 initialising on 127.0.0.1:7004
+2026-11-08 16:20:45,438 [Peer-P4] INFO: Peer P4 listening on 127.0.0.1:7004
+2026-11-08 16:20:45,520 [Peer-P4] INFO: New peer joined: P1 @ 127.0.0.1:7001
+2026-11-08 16:20:45,824 [Peer-P4] INFO: New peer joined: P2 @ 127.0.0.1:7002
+2026-11-08 16:20:46,135 [Peer-P4] INFO: New peer joined: P3 @ 127.0.0.1:7003
+2026-11-08 16:20:46,444 [Peer-P4] INFO: Announced join to 127.0.0.1:7001
+2026-11-08 16:20:46,446 [Peer-P4] INFO: Announced join to 127.0.0.1:7002
+2026-11-08 16:20:46,447 [Peer-P4] INFO: Announced join to 127.0.0.1:7003
+2026-11-08 16:20:47,695 [Peer-P4] INFO: Resource request from peer P1
+2026-11-08 16:20:47,698 [Peer-P4] INFO: Peer P3 shared file 'results_P3.json' with us

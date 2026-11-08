@@ -1,0 +1,78 @@
+2026-10-31 21:03:12,998 [Worker-W1] INFO: Worker W1 initialising on 127.0.0.1:6001
+2026-10-31 21:03:12,998 [Worker-W1] INFO: Registered with master successfully
+2026-10-31 21:03:12,998 [Worker-W1] INFO: Worker listening on 127.0.0.1:6001
+2026-10-31 21:03:13,242 [Worker-W1] INFO: Executing sub-task ? | type=None | data={}
+2026-10-31 21:03:13,242 [Worker-W1] INFO: Sub-task ? done in 3e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 3e-06}
+2026-10-31 21:03:18,119 [Worker-W1] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 2, 'high': 166666}
+2026-10-31 21:03:18,136 [Worker-W1] INFO: Sub-task T000001 done in 0.016377s | {'count': 15225, 'range': '2-166666', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.016377}
+2026-10-31 21:03:18,154 [Worker-W1] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 1, 'high': 333333}
+2026-10-31 21:03:18,154 [Worker-W1] INFO: Sub-task T000002 done in 5e-06s | {'sum': 12345697530845679, 'range': '1-333333', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 5e-06}
+2026-10-31 21:03:18,155 [Worker-W1] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['distributed', 'systems', 'enable', 'scalable', 'computing', 'across', 'multiple', 'nodes', 'peer', 'to', 'peer', 'networks', 'allow', 'direct']}
+2026-10-31 21:03:18,155 [Worker-W1] INFO: Sub-task T000003 done in 1e-05s | {'freq': {'distributed': 1, 'systems': 1, 'enable': 1, 'scalable': 1, 'computing': 1, 'across': 1, 'multiple': 1, 'nodes': 1, 'peer': 2, 'to': 1, 'networks': 1, 'allow': 1, 'direct': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 1e-05}
+2026-10-31 21:03:19,470 [Worker-W1] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 2, 'high': 250000}
+2026-10-31 21:03:19,500 [Worker-W1] INFO: Sub-task T000004 done in 0.029693s | {'count': 22044, 'range': '2-250000', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.029693}
+2026-10-31 21:14:46,535 [Worker-W1] INFO: Worker W1 initialising on 127.0.0.1:6001
+2026-10-31 21:14:46,536 [Worker-W1] INFO: Registered with master successfully
+2026-10-31 21:14:46,536 [Worker-W1] INFO: Worker listening on 127.0.0.1:6001
+2026-10-31 21:14:46,780 [Worker-W1] INFO: Executing sub-task ? | type=None | data={}
+2026-10-31 21:14:46,780 [Worker-W1] INFO: Sub-task ? done in 8e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 8e-06}
+2026-10-31 21:14:51,665 [Worker-W1] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 2, 'high': 166666}
+2026-10-31 21:14:51,682 [Worker-W1] INFO: Sub-task T000001 done in 0.017251s | {'count': 15225, 'range': '2-166666', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.017251}
+2026-10-31 21:14:51,699 [Worker-W1] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 1, 'high': 333333}
+2026-10-31 21:14:51,699 [Worker-W1] INFO: Sub-task T000002 done in 5e-06s | {'sum': 12345697530845679, 'range': '1-333333', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 5e-06}
+2026-10-31 21:14:51,701 [Worker-W1] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['distributed', 'systems', 'enable', 'scalable', 'computing', 'across', 'multiple', 'nodes', 'peer', 'to', 'peer', 'networks', 'allow', 'direct']}
+2026-10-31 21:14:51,701 [Worker-W1] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'distributed': 1, 'systems': 1, 'enable': 1, 'scalable': 1, 'computing': 1, 'across': 1, 'multiple': 1, 'nodes': 1, 'peer': 2, 'to': 1, 'networks': 1, 'allow': 1, 'direct': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 9e-06}
+2026-10-31 21:14:53,019 [Worker-W1] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 2, 'high': 250000}
+2026-10-31 21:14:53,047 [Worker-W1] INFO: Sub-task T000004 done in 0.02714s | {'count': 22044, 'range': '2-250000', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.02714}
+2026-11-08 15:52:54,836 [Worker-W1] INFO: Worker W1 initialising on 127.0.0.1:6001
+2026-11-08 15:52:54,837 [Worker-W1] INFO: Registered with master successfully
+2026-11-08 15:52:54,837 [Worker-W1] INFO: Worker W1 listening on 127.0.0.1:6001
+2026-11-08 15:52:55,082 [Worker-W1] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 15:52:55,083 [Worker-W1] INFO: Sub-task ? done in 8e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 8e-06}
+2026-11-08 15:52:59,964 [Worker-W1] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 1, 'high': 166666}
+2026-11-08 15:52:59,979 [Worker-W1] INFO: Sub-task T000001 done in 0.015526s | {'count': 15225, 'range': '1-166666', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.015526}
+2026-11-08 15:52:59,997 [Worker-W1] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 1, 'high': 333333}
+2026-11-08 15:52:59,997 [Worker-W1] INFO: Sub-task T000002 done in 7e-06s | {'sum': 12345697530845679, 'range': '1-333333', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 7e-06}
+2026-11-08 15:52:59,998 [Worker-W1] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['distributed', 'systems', 'enable', 'scalable', 'computing', 'across', 'multiple', 'nodes', 'peer', 'to', 'peer', 'networks', 'allow', 'direct']}
+2026-11-08 15:52:59,998 [Worker-W1] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'distributed': 1, 'systems': 1, 'enable': 1, 'scalable': 1, 'computing': 1, 'across': 1, 'multiple': 1, 'nodes': 1, 'peer': 2, 'to': 1, 'networks': 1, 'allow': 1, 'direct': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 9e-06}
+2026-11-08 15:53:01,315 [Worker-W1] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 1, 'high': 250000}
+2026-11-08 15:53:01,344 [Worker-W1] INFO: Sub-task T000004 done in 0.028682s | {'count': 22044, 'range': '1-250000', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.028682}
+2026-11-08 16:01:14,729 [Worker-W1] INFO: Worker W1 initialising on 127.0.0.1:6001
+2026-11-08 16:01:14,730 [Worker-W1] INFO: Registered with master successfully
+2026-11-08 16:01:14,730 [Worker-W1] INFO: Worker W1 listening on 127.0.0.1:6001
+2026-11-08 16:01:14,982 [Worker-W1] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:01:14,982 [Worker-W1] INFO: Sub-task ? done in 1e-05s | {'echo': {}, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 1e-05}
+2026-11-08 16:01:19,855 [Worker-W1] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 1, 'high': 166666}
+2026-11-08 16:01:19,872 [Worker-W1] INFO: Sub-task T000001 done in 0.017031s | {'count': 15225, 'range': '1-166666', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.017031}
+2026-11-08 16:01:19,890 [Worker-W1] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 1, 'high': 333333}
+2026-11-08 16:01:19,890 [Worker-W1] INFO: Sub-task T000002 done in 7e-06s | {'sum': 12345697530845679, 'range': '1-333333', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 7e-06}
+2026-11-08 16:01:19,891 [Worker-W1] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['distributed', 'systems', 'enable', 'scalable', 'computing', 'across', 'multiple', 'nodes', 'peer', 'to', 'peer', 'networks', 'allow', 'direct']}
+2026-11-08 16:01:19,891 [Worker-W1] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'distributed': 1, 'systems': 1, 'enable': 1, 'scalable': 1, 'computing': 1, 'across': 1, 'multiple': 1, 'nodes': 1, 'peer': 2, 'to': 1, 'networks': 1, 'allow': 1, 'direct': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 9e-06}
+2026-11-08 16:01:21,207 [Worker-W1] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 1, 'high': 250000}
+2026-11-08 16:01:21,236 [Worker-W1] INFO: Sub-task T000004 done in 0.028026s | {'count': 22044, 'range': '1-250000', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.028026}
+2026-11-08 16:08:07,933 [Worker-W1] INFO: Worker W1 initialising on 127.0.0.1:6001
+2026-11-08 16:08:07,934 [Worker-W1] INFO: Registered with master successfully
+2026-11-08 16:08:07,934 [Worker-W1] INFO: Worker W1 listening on 127.0.0.1:6001
+2026-11-08 16:08:08,192 [Worker-W1] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:08:08,193 [Worker-W1] INFO: Sub-task ? done in 4e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 4e-06}
+2026-11-08 16:08:13,064 [Worker-W1] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 1, 'high': 166666}
+2026-11-08 16:08:13,080 [Worker-W1] INFO: Sub-task T000001 done in 0.015889s | {'count': 15225, 'range': '1-166666', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.015889}
+2026-11-08 16:08:13,098 [Worker-W1] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 1, 'high': 333333}
+2026-11-08 16:08:13,098 [Worker-W1] INFO: Sub-task T000002 done in 6e-06s | {'sum': 12345697530845679, 'range': '1-333333', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 6e-06}
+2026-11-08 16:08:13,099 [Worker-W1] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['distributed', 'systems', 'enable', 'scalable', 'computing', 'across', 'multiple', 'nodes', 'peer', 'to', 'peer', 'networks', 'allow', 'direct']}
+2026-11-08 16:08:13,099 [Worker-W1] INFO: Sub-task T000003 done in 9e-06s | {'freq': {'distributed': 1, 'systems': 1, 'enable': 1, 'scalable': 1, 'computing': 1, 'across': 1, 'multiple': 1, 'nodes': 1, 'peer': 2, 'to': 1, 'networks': 1, 'allow': 1, 'direct': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 9e-06}
+2026-11-08 16:08:14,416 [Worker-W1] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 1, 'high': 250000}
+2026-11-08 16:08:14,441 [Worker-W1] INFO: Sub-task T000004 done in 0.024664s | {'count': 22044, 'range': '1-250000', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.024664}
+2026-11-08 16:20:42,562 [Worker-W1] INFO: Worker W1 initialising on 127.0.0.1:6001
+2026-11-08 16:20:42,563 [Worker-W1] INFO: Registered with master successfully
+2026-11-08 16:20:42,563 [Worker-W1] INFO: Worker W1 listening on 127.0.0.1:6001
+2026-11-08 16:20:42,819 [Worker-W1] INFO: Executing sub-task ? | type=None | data={}
+2026-11-08 16:20:42,819 [Worker-W1] INFO: Sub-task ? done in 7e-06s | {'echo': {}, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 7e-06}
+2026-11-08 16:20:47,700 [Worker-W1] INFO: Executing sub-task T000001 | type=prime_count | data={'low': 1, 'high': 166666}
+2026-11-08 16:20:47,715 [Worker-W1] INFO: Sub-task T000001 done in 0.014629s | {'count': 15225, 'range': '1-166666', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.014629}
+2026-11-08 16:20:47,731 [Worker-W1] INFO: Executing sub-task T000002 | type=sum_squares | data={'low': 1, 'high': 333333}
+2026-11-08 16:20:47,731 [Worker-W1] INFO: Sub-task T000002 done in 8e-06s | {'sum': 12345697530845679, 'range': '1-333333', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 8e-06}
+2026-11-08 16:20:47,733 [Worker-W1] INFO: Executing sub-task T000003 | type=word_count | data={'words': ['distributed', 'systems', 'enable', 'scalable', 'computing', 'across', 'multiple', 'nodes', 'peer', 'to', 'peer', 'networks', 'allow', 'direct']}
+2026-11-08 16:20:47,733 [Worker-W1] INFO: Sub-task T000003 done in 1e-05s | {'freq': {'distributed': 1, 'systems': 1, 'enable': 1, 'scalable': 1, 'computing': 1, 'across': 1, 'multiple': 1, 'nodes': 1, 'peer': 2, 'to': 1, 'networks': 1, 'allow': 1, 'direct': 1}, 'word_count': 14, 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 1e-05}
+2026-11-08 16:20:49,047 [Worker-W1] INFO: Executing sub-task T000004 | type=prime_count | data={'low': 1, 'high': 250000}
+2026-11-08 16:20:49,075 [Worker-W1] INFO: Sub-task T000004 done in 0.028189s | {'count': 22044, 'range': '1-250000', 'status': 'ok', 'worker_id': 'W1', 'elapsed_seconds': 0.028189}
